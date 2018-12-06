@@ -13,6 +13,7 @@ Here I will share my journey to developing my STEM skills and also recent projec
 * Linux
 * Quantum Electrodynamics
 * Bayesian Inference
+* Symmetry
 * and any/all other things tech-related.
 
 This blog will be about any of the aforementioned topics, plus the occasional cat or two. :smile_cat:
